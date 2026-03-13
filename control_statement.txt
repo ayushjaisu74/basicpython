@@ -1,0 +1,14 @@
+control statement is used to control flow of condition or code.
+
+Types of statements:
+
+1)if :It check single condition , It check only true
+2)if else:It check two conditions, If block for true and else for false.
+3)elif:It check multiple conditions (but it print the condition which true first).
+
+Note: In python brackets will not use so we use indentation 
+
+if (codntion):
+   if part
+else:
+  else part

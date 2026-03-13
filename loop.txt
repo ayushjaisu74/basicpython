@@ -1,0 +1,25 @@
+loop:It is used to iterate single statement multiple times till 
+the given condtition is satisy , if condition become false it will 
+break.
+
+collection(number of items)
+statement(sentence or word)
+
+
+Types of Loop:
+
+1)While loop:It check condition first and then print statement.
+syntax:
+   initialization
+   while (condition):
+      statement
+      step
+
+2)for loop:It is used to collection and we can also iterate numbers 
+using range () method.
+
+Note:range start from 0 to n-1.
+
+syntax:
+for expression in variable:
+   print(expression)

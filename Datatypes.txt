@@ -1,0 +1,17 @@
+Datatypes in python are predefined
+
+But we can check python data type using type operator.
+
+type operator is an inbuild feature of python to retreive type of given data which is stored in class or object
+form.
+
+type(data)
+output 
+ class<type>
+
+ converison of data in python 
+
+ In python to convert data from one type another use this syntax
+
+ datatype(data)
+ 
